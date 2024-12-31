@@ -1,7 +1,5 @@
-# Semester Project Template
-
-## set up
-### virtual environment
+# Freaky Food
+### Setting Up The Virtual Environment
 1. install virtualenv virtual environment
     ```bash
     pip install virtualenv
