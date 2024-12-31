@@ -1,2 +1,0 @@
-Rich - Fix Tests
-Redirect if no saved payment information
